@@ -1,7 +1,5 @@
-/* 구글 폰트 */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 
-/* 리셋 및 기본 스타일 */
 * {
   box-sizing: border-box;
   margin: 0;
