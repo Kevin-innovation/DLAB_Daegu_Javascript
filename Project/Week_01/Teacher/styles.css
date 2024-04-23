@@ -27,6 +27,12 @@ h1 {
   margin-bottom: 20px;
 }
 
+h2 {
+  text-align: right;
+  margin-bottom: 10px;
+  font-size: 10px;
+}
+
 /* Input Container */
 .input-container {
   display: flex;
