@@ -1,12 +1,12 @@
-## 자바스크립트 프로젝트 수업 (디랩 수성캠퍼스 by Kevin)
+## **자바스크립트 프로젝트 수업 (디랩 수성캠퍼스 by Kevin)**
 
-## Project 01 : To Do List 사이트 제작
+## **Project 01 : To Do List 사이트 제작**
 
 - **목표** : To-Do List 사이트를 만들면서 JavaScript의 기본 개념과 문법을 익힌다.
 - **DOM 조작**과 **이벤트 처리**에 대한 이해를 향상시킨다.
 - JavaScript를 사용하여 **동적인 웹 페이지를 구현**하는 방법을 배운다.
 
-  ## Week 별 커리큘럼
+  ## **Project 01 커리큘럼**
 
   ### Week 01. JavaScript 기본 개념과 문법 학습
 
